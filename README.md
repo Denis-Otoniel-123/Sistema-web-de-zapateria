@@ -16,6 +16,7 @@ es pequeño y no esta terminado. Durante el desarrollo surgian ideas de como ir 
 en la fabricacion de materia prima o algujn tipo de procedimiento de fabricacion de calzado por lo que recui a abandonar este proyecto personal hasta contar con la experiencia requerida quisas mas adelante pueda
 retomar el sistema pero seria con nuevas tecnologias mas faciles de utilizar y que le den una mejor vista a la que tenia este sistema, De igual forma queria Resaltar que este sistema se todo como idea uno que ya contaba
 con la mayor parte del sistema acabado pero como digo por falta de experiencia a la hora de programar me lleva a que no lo terminare hasta mas adelante.
+(25/5/2022)
 
 ***Creditos del sistema base el cual se baso este**
 
